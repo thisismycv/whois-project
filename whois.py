@@ -2,8 +2,8 @@ import requests
 import sys
 from pathlib import Path
 
-TOKEN = "d81048aab0a89f6311fb028633aa1d2d6305165c2c47c2017f6dae23ec44defe"
-ABUSEIPDB_KEY = "5003a121301e3e3b6762358e716de7882f32deeaab898c052e2d15d693559f1340878c965e1cf0e2"
+TOKEN = "yourwhoistoken"
+ABUSEIPDB_KEY = "yourabuseipdb"
 
 
 if len(sys.argv) < 2:
